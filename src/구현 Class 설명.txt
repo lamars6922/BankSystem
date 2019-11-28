@@ -1,0 +1,35 @@
+은행계좌 관리 시스템의 CLASS
+Account
+: 계좌와 관련된 기능을 수행하는 클래스
+
+Bank
+: 계좌를 저장하고 있는 클래스
+
+BankOption : 일반 계좌를 관리하기 위한 부가 GUI가 포함된 클래스
+
+FindVIPUser : VIP고객을 찾는 클래스
+
+MainView
+: 메인 화면을 구현한 클래스
+
+mBankOption : 마이너스 계좌를 관리하기 위한 부가 GUI가 포함된 클래스
+
+MyDialog
+: 여러가지 오류를 GUI로 출력해주는 클래스
+
+NetworkLoad : 원격으로 계좌 정보가 저장된 것을 불러오는 클래스
+
+NetworkSave : 원격으로 계좌 정보를 저장하는 클래스
+
+SaveNLoad
+: 계좌 정보를 저장하고 불러오는 클래스
+
+VIPPaintStart : VIP고객에 관한 정보를 화면에 보여주는 클래스
+
+Server
+
+Server
+: 서버 > 클라이언트로 데이터 전송
+
+Server2
+: 클라이언트 > 서버로 데이터 전송
